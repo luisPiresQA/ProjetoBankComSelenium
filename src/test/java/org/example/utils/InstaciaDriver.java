@@ -18,6 +18,6 @@ public class InstaciaDriver {
 
     @After
     public void finalizar() {
-        //driver.quit();
+        driver.quit();
     }
 }
