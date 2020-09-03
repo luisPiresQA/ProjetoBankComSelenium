@@ -2,7 +2,7 @@
 ## Projeto: testes automatizados na aplicação Bank com Selenium WebDriver
 
 
-#### Técnicas para testa a aplicação
+#### Técnicas para testar a aplicação
 
 Para validar um sistema com inumeros cenários de teste como neste caso, é preciso ganhar velocidade, mas sem abrir mão também da qualidade. Os testes que vou apresentar são apenas para demostrar como tirar proveito das técnicas de BDD e posteriormente apresentarei o desenvolvimento em selenium.
 
