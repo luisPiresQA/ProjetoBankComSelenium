@@ -23,7 +23,7 @@ BDD é uma técnica de desenvolvimento de software ágil que surge através de u
 ![alt text](img/testesBDD_3.png)
 
 ### Como fica após atomatizar com Selenium e JUnit 
-##### Onde ten @Test sinaliza que é um teste
+##### Onde tem "@Test" sinaliza uma anotação para executaro teste
 ![alt text](img/cadastroCliente.png)
 
 ![alt text](img/loginSucess.png)
