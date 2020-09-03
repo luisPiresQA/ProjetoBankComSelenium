@@ -12,19 +12,7 @@ Para validar um sistema com inumeros cenários de teste como neste caso, é prec
 
 ###### tela de Transações da aplicação 
 ![alt text](img/aplicacaoTransacoes.png)
-![alt text](img/aplicacaoTransacoess.png)
 
-###### tela de adicionar cliente da aplicação 
-![alt text](img/aplicacaoadicionaCliente.png)
-
-###### tela de adicionar conta da aplicação 
-![alt text](img/aplicacaoadicionaConta.png)
-
-###### tela de gerenciomento dos cliente da aplicação 
-![alt text](img/aplicacaoagerencia.png)
-
-###### tela de cadastro cliente da aplicação 
-![alt text](img/cadastroCliente.png)
 
 ## uma visão sobre o BDD como isso vai ajudar nos testes.
 BDD é uma técnica de desenvolvimento de software ágil que surge através de uma crítica de Dan North ao Test Driven Development(Desenvolvimento orientado a testes), onde ele visava otimizar o conceito de ‘verificação e validação’ já aplicado, e tornar mais eficiente a construção de cenários a serem testados e/ou desenvolvidos.
